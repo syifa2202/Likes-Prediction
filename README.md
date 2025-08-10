@@ -6,7 +6,7 @@ berdasarkan data sponsorship dan engagement di berbagai platform seperti Instagr
 Berfokus pada **Exploratory Data Analysis (EDA)** dan **Machine Learning** untuk memahami pola engagement  
 serta memprediksi performa konten bersponsor.
 
-👉 **Demo Aplikasi**: (https://likes-prediction-app.streamlit.app/)
+👉 **Demo Aplikasi**: [likes-prediction.streamlit.app](https://likes-prediction-app.streamlit.app/)
 
 ---
 
@@ -39,7 +39,7 @@ Halo! Saya **Syifa**, seorang data enthusiast dengan minat pada analisis data me
 Saya senang menggali pola tersembunyi dalam data dan mengubahnya menjadi insight yang bermanfaat.  
 
 Terhubung dengan saya di:  
-🔗 [LinkedIn](https://www.linkedin.com/in/syifa01) | 📧 Email: syifamujiburrahman@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/syifa01) | 📧 [Email](syifamujiburrahman@gmail.com) 
 
 ---
 

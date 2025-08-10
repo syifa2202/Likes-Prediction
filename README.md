@@ -6,7 +6,7 @@ berdasarkan data sponsorship dan engagement di berbagai platform seperti Instagr
 Berfokus pada **Exploratory Data Analysis (EDA)** dan **Machine Learning** untuk memahami pola engagement  
 serta memprediksi performa konten bersponsor.
 
-👉 **Demo Aplikasi**: [likes-prediction.streamlit.app] (https://likes-prediction-app.streamlit.app/)
+👉 **Demo Aplikasi**: (https://likes-prediction-app.streamlit.app/)
 
 ---
 
